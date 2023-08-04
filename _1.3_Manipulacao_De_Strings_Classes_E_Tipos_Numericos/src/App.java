@@ -4,5 +4,6 @@ public class App {
     String info = "noreply@mycompany.com;onetaxi@company.com;a;De {de} para {para};Bom dia amigo!";
     Email email = new Email();
     email.enviar(info);
+
   }
 }
