@@ -11,5 +11,6 @@ public class Main {
         calc.setPrimeiroNumero(7);
         calc.setSegundoNumero(2);
         System.out.println(calc.multiplicar());
+        SubClasse sub = new SubClasse();
     }
 }
