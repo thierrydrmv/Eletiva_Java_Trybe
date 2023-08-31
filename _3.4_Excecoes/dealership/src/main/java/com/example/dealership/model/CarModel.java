@@ -14,6 +14,7 @@ public class CarModel {
     Double fullPrice;
     Double discount;
     Double price;
+    public CarModel() {}
 
     public CarModel(String title, String brand, String type, Double fullPrice) {
         this.id = UUID.randomUUID().toString();
