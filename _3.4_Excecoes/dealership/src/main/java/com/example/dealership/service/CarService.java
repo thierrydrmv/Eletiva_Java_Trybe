@@ -21,4 +21,8 @@ public class CarService {
     public List<CarModel> getAllCars() {
         return fakeDealershipDatabase.getAllCars();
     }
+
+    public CarModel getCarById(String id) {
+        return fakeDealershipDatabase.getCarById(id);
+    }
 }

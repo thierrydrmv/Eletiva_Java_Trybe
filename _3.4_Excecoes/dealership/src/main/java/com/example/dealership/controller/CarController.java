@@ -6,6 +6,7 @@ import com.example.dealership.service.CarService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -25,6 +26,7 @@ public class CarController {
     public CarController(CarService carService){
         this.carService = carService;
     }
+
     /**
      * endpoint GET.
      */
@@ -37,5 +39,17 @@ public class CarController {
             );
         }
         return ResponseEntity.ok(cars);
+    }
+
+    /**
+     * endpoint GET/:id.
+     */
+    @GetMapping({"/{id}"})
+    public ResponseEntity<CarDto> getCar(@PathVariable String id) {
+        CarModel car = carService.getCarById(id);
+        if (car == null) {
+            return ResponseEntity.notFound().build();
+        }
+        return  ResponseEntity.ok(entityToDto(car));
     }
 }
