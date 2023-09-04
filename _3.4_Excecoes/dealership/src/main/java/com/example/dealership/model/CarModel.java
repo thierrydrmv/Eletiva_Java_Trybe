@@ -13,7 +13,6 @@ public class CarModel {
     String type;
     Double fullPrice;
     Double discount;
-    Double price;
     public CarModel() {}
 
     public CarModel(String title, String brand, String type, Double fullPrice) {
@@ -22,6 +21,15 @@ public class CarModel {
         this.brand = brand;
         this.type = type;
         this.fullPrice = fullPrice;
+    }
+
+    public CarModel(String id, String title, String brand, String type, Double fullPrice, Double discount) {
+        this.id = id;
+        this.title = title;
+        this.brand = brand;
+        this.type = type;
+        this.fullPrice = fullPrice;
+        this.setPrice(fullPrice - fullPrice * discount/100);
     }
 
     public String getId() {
@@ -62,5 +70,13 @@ public class CarModel {
 
     public void setPrice(Double fullPrice) {
         this.fullPrice = fullPrice;
+    }
+
+    public Double getDiscount() {
+        return discount;
+    }
+
+    public void setDiscount(Double discount) {
+        this.discount = discount;
     }
 }

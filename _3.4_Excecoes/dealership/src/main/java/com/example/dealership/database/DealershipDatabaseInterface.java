@@ -14,7 +14,7 @@ public interface DealershipDatabaseInterface {
 
     CarModel addCar(String title, String brand, String type, double fullPrice);
 
-    CarModel setDiscount(String id);
+    CarModel setDiscount(String id, String title, String brand, String type, double fullPrice, double discount);
 
     CarModel removeCar(String id);
 }

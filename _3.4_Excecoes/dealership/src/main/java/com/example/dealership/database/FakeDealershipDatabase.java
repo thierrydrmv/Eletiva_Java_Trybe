@@ -1,5 +1,6 @@
 package com.example.dealership.database;
 
+import com.example.dealership.dto.EditCarCreationDto;
 import com.example.dealership.model.CarModel;
 import org.springframework.stereotype.Component;
 
@@ -35,12 +36,15 @@ public class FakeDealershipDatabase implements  DealershipDatabaseInterface{
     }
 
     @Override
-    public CarModel setDiscount(String id) {
-        return null;
+    public CarModel setDiscount(String id, String title, String brand, String type, double fullPrice, double discount) {
+        CarModel newCar = new CarModel(id, title, brand, type, fullPrice, discount);
+        removeCar(id);
+        cars.put(newCar.getId(), newCar);
+        return newCar;
     }
 
     @Override
     public CarModel removeCar(String id) {
-        return null;
+        return cars.remove(id);
     }
 }
