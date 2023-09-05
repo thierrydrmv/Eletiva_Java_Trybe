@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Eletiva_Java_Trybe.iml" filepath="$PROJECT_DIR$/.idea/Eletiva_Java_Trybe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_1.1_Introducao_Ao_Desenvolvimento_Em_Java_E_Ferramentas_Essenciais/_1.1_Introducao_Ao_Desenvolvimento_Em_Java_E_Ferramentas_Essenciais.iml" filepath="$PROJECT_DIR$/_1.1_Introducao_Ao_Desenvolvimento_Em_Java_E_Ferramentas_Essenciais/_1.1_Introducao_Ao_Desenvolvimento_Em_Java_E_Ferramentas_Essenciais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_1.2_Tipos_De_Dados_E_Estruturas_De_Controle_De_Fluxo/_1.2_Tipos_De_Dados_E_Estruturas_De_Controle_De_Fluxo.iml" filepath="$PROJECT_DIR$/_1.2_Tipos_De_Dados_E_Estruturas_De_Controle_De_Fluxo/_1.2_Tipos_De_Dados_E_Estruturas_De_Controle_De_Fluxo.iml" />
+    </modules>
+  </component>
+</project>

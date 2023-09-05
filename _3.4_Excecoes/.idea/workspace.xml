@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b393a5cd-023c-40e3-9eff-92fa23038fe3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../_1.1_Introducao_Ao_Desenvolvimento_Em_Java_E_Ferramentas_Essenciais/_1.1_Introducao_Ao_Desenvolvimento_Em_Java_E_Ferramentas_Essenciais.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../_1.1_Introducao_Ao_Desenvolvimento_Em_Java_E_Ferramentas_Essenciais/_1.1_Introducao_Ao_Desenvolvimento_Em_Java_E_Ferramentas_Essenciais.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_1.2_Tipos_De_Dados_E_Estruturas_De_Controle_De_Fluxo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_1.2_Tipos_De_Dados_E_Estruturas_De_Controle_De_Fluxo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_1.2_Tipos_De_Dados_E_Estruturas_De_Controle_De_Fluxo/_1.2_Tipos_De_Dados_E_Estruturas_De_Controle_De_Fluxo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../_1.2_Tipos_De_Dados_E_Estruturas_De_Controle_De_Fluxo/_1.2_Tipos_De_Dados_E_Estruturas_De_Controle_De_Fluxo.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Record" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2UkTLdd92i9LYqaif1zAWzzjnkY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "exercicios__java/day9",
+    "last_opened_file_path": "/home/thierry/IdeaProjects/Eletiva_Java_Trybe"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="CarDealershipApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.dealership.CarDealershipApplication" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.dealership.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CarDealershipApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b393a5cd-023c-40e3-9eff-92fa23038fe3" name="Changes" comment="" />
+      <created>1693482523228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693482523228</updated>
+    </task>
+    <servers />
+  </component>
+</project>
