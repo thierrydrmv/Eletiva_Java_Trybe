@@ -20,9 +20,9 @@
  - [x] 3.1  Introdução a Java Web
  - [x] 3.2  Introdução ao Spring
  - [x] 3.3  API REST com Spring
- - [x] 3.5  Exceções
- - [x] 3.6  Testes com JUnit
- - [x] 3.7  Containers Java e Docker
+ - [x] 3.4  Exceções
+ - [x] 3.5  Testes com JUnit
+ - [x] 3.6  Containers Java e Docker
  
 ## Contato:
 
