@@ -23,7 +23,31 @@
  - [x] 3.4  Exceções
  - [x] 3.5  Testes com JUnit
  - [x] 3.6  Containers Java e Docker
- 
+
+#### Bloco 04: Persistência I
+
+ - [x] 4.1  Coleções
+ - [ ] 4.2  Spring Data JPA
+ - [ ] 4.3  Spring Data Relacionamentos
+
+ #### Bloco 05: Persistência II
+
+ - [ ] 5.1  Testes com Spring Data
+ - [ ] 5.2  Data e Hora
+ - [ ] 5.3  Buscas customizadas
+ - [ ] 5.4  Auditoria
+
+#### Bloco 06: Spring Security
+
+ - [ ] 6.1  Autenticação
+ - [ ] 6.2  Autorização
+
+#### Bloco 07: Deploy
+
+ - [ ] 7.1  Protocolos de computação e programação em nuvem
+ - [ ] 7.2  CI/CD
+
+
 ## Contato:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varela-thierry/)
