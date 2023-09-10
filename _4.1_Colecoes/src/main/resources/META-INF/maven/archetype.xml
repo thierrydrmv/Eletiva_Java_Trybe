@@ -1,0 +1,9 @@
+<archetype>
+  <id>_4.1_Colecoes</id>
+  <sources>
+    <source>src/main/java/App.java</source>
+  </sources>
+  <testSources>
+    <source>src/test/java/AppTest.java</source>
+  </testSources>
+</archetype>
