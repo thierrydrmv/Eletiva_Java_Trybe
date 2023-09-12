@@ -27,7 +27,7 @@
 #### Bloco 04: Persistência I
 
  - [x] 4.1  Coleções
- - [ ] 4.2  Spring Data JPA
+ - [x] 4.2  Spring Data JPA
  - [ ] 4.3  Spring Data Relacionamentos
 
  #### Bloco 05: Persistência II
